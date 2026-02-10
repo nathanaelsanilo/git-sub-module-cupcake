@@ -1,0 +1,3 @@
+[submodule "git-sub-module-shared"]
+	path = git-sub-module-shared
+	url = https://github.com/nathanaelsanilo/git-sub-module-shared.git
